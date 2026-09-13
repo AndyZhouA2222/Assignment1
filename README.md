@@ -2,7 +2,7 @@
 
 ## Title: Why are we here?
 
-### subtitle1: Introduction of me and how I use AI
+### Subtitle_1: Introduction of me and how I use AI
 
 Before coming to Hong Kong Polytechnic University, I was a 3D concept artist, usually using Blender and Photoshop to create concepts art.
 
@@ -12,7 +12,7 @@ For me, AI has never played a design role in my workflow. I never use AI to gene
 
 Even in the concept art created by this way, I still consider myself the author, because the presented concept art and models were all built by me. However, regarding the plugins, when I share them with others, I don't consider the AI-generated code as my own work. I always declare that my contribution to these plugins is limited to defining requirements and testing.
 
-### subtitle2: For the course and Goal
+### Subtitle_2: For the course and Goal
 
 For this course, I believe what I need to learn shouldn't be limited to understanding code or using web scraping tools to download data, although those are necessary. What I really want to learn is how to formulate requirements more efficiently and how to determine if a certain implementation method can be achieved in a simpler way.
 
